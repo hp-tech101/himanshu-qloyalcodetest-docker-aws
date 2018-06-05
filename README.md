@@ -83,3 +83,5 @@ Steps to execute the Postman Collection on EC2 : <br/>
 
 ### Step 2: To view the Selenium grid using the following command:
      command> docker ps
+
+
