@@ -1,0 +1,13 @@
+Error: ENOENT: no such file or directory, stat 'lightbulb-quantasTest.json.postman_collection'
+    at Error (native)
+    at Object.fs.statSync (fs.js:844:18)
+    at Object.jsface.Class.fileExists (/usr/local/lib/node_modules/newman/src/utilities/Helpers.js:30:23)
+    at Object.jsface.Class.validateCollectionFile (/usr/local/lib/node_modules/newman/src/utilities/Helpers.js:44:19)
+    at parseArguments (/usr/local/lib/node_modules/newman/bin/newman:81:17)
+    at main (/usr/local/lib/node_modules/newman/bin/newman:114:5)
+    at Object.<anonymous> (/usr/local/lib/node_modules/newman/bin/newman:268:1)
+    at Module._compile (module.js:410:26)
+    at Object.Module._extensions..js (module.js:417:10)
+    at Module.load (module.js:344:32)
+[31mSpecified collection file does not exist: lightbulb-quantasTest.json.postman_collection
+[39m

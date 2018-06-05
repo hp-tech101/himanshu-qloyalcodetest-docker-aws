@@ -1,0 +1,196 @@
+[38;5;33m[4m
+Iteration 1 of 15
+[24m[39m[32m200[39m[36m 1608ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[32m    ✔ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         2	[39m[31m         0
+[39m[37m
+[39m[37mTotal                    	[39m[32m         2	[39m[31m         0
+[39m[38;5;33m[4m
+Iteration 2 of 15
+[24m[39m[32m200[39m[36m 836ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[32m    ✔ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         2	[39m[31m         0
+[39m[37m
+[39m[37mTotal                    	[39m[32m         2	[39m[31m         0
+[39m[38;5;33m[4m
+Iteration 3 of 15
+[24m[39m[32m200[39m[36m 833ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[32m    ✔ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         2	[39m[31m         0
+[39m[37m
+[39m[37mTotal                    	[39m[32m         2	[39m[31m         0
+[39m[38;5;33m[4m
+Iteration 4 of 15
+[24m[39m[31m400[39m[36m 833ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[31m    ✗ TC1: expected status 200
+[39m[31m    ✗ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         0	[39m[31m         2
+[39m[37m
+[39m[37mTotal                    	[39m[32m         0	[39m[31m         2
+[39m[38;5;33m[4m
+Iteration 5 of 15
+[24m[39m[32m200[39m[36m 827ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[31m    ✗ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         1	[39m[31m         1
+[39m[37m
+[39m[37mTotal                    	[39m[32m         1	[39m[31m         1
+[39m[38;5;33m[4m
+Iteration 6 of 15
+[24m[39m[32m200[39m[36m 830ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[31m    ✗ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         1	[39m[31m         1
+[39m[37m
+[39m[37mTotal                    	[39m[32m         1	[39m[31m         1
+[39m[38;5;33m[4m
+Iteration 7 of 15
+[24m[39m[32m200[39m[36m 832ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[32m    ✔ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         2	[39m[31m         0
+[39m[37m
+[39m[37mTotal                    	[39m[32m         2	[39m[31m         0
+[39m[38;5;33m[4m
+Iteration 8 of 15
+[24m[39m[32m200[39m[36m 830ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[32m    ✔ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         2	[39m[31m         0
+[39m[37m
+[39m[37mTotal                    	[39m[32m         2	[39m[31m         0
+[39m[38;5;33m[4m
+Iteration 9 of 15
+[24m[39m[31m400[39m[36m 831ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[31m    ✗ TC1: expected status 200
+[39m[31m    ✗ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         0	[39m[31m         2
+[39m[37m
+[39m[37mTotal                    	[39m[32m         0	[39m[31m         2
+[39m[38;5;33m[4m
+Iteration 10 of 15
+[24m[39m[32m200[39m[36m 832ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[32m    ✔ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         2	[39m[31m         0
+[39m[37m
+[39m[37mTotal                    	[39m[32m         2	[39m[31m         0
+[39m[38;5;33m[4m
+Iteration 11 of 15
+[24m[39m[32m200[39m[36m 831ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[31m    ✗ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         1	[39m[31m         1
+[39m[37m
+[39m[37mTotal                    	[39m[32m         1	[39m[31m         1
+[39m[38;5;33m[4m
+Iteration 12 of 15
+[24m[39m[32m200[39m[36m 831ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[31m    ✗ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         1	[39m[31m         1
+[39m[37m
+[39m[37mTotal                    	[39m[32m         1	[39m[31m         1
+[39m[38;5;33m[4m
+Iteration 13 of 15
+[24m[39m[32m200[39m[36m 832ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[32m    ✔ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         2	[39m[31m         0
+[39m[37m
+[39m[37mTotal                    	[39m[32m         2	[39m[31m         0
+[39m[38;5;33m[4m
+Iteration 14 of 15
+[24m[39m[32m200[39m[36m 831ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status 200
+[39m[32m    ✔ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         2	[39m[31m         0
+[39m[37m
+[39m[37mTotal                    	[39m[32m         2	[39m[31m         0
+[39m[38;5;33m[4m
+Iteration 15 of 15
+[24m[39m[31m400[39m[36m 832ms[39m[37m power-on-200-custom-valid [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[31m    ✗ TC1: expected status 200
+[39m[31m    ✗ TC2: expected response = 'Switch & custom power set successfully'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-200-valid    	[39m[32m         0	[39m[31m         2
+[39m[37m
+[39m[37mTotal                    	[39m[32m         0	[39m[31m         2
+[39m

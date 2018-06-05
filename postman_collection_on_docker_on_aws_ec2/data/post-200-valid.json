@@ -1,0 +1,48 @@
+[{
+	"bulbPower": 1
+
+}, {
+	"bulbPower": "1"
+
+},{
+	"bulbPower": 1.0
+
+},{
+	"bulbPower": "+1.0"
+
+}, {
+	"bulbPower": 1.01
+
+},{
+	"bulbPower": 1.5
+
+}, {
+	"bulbPower": 2
+
+}, {
+	"bulbPower": 30
+
+}, {
+	"bulbPower": "+30.5"
+
+},{
+	"bulbPower": 59
+
+}, {
+	"bulbPower": 59.5
+
+}, {
+	"bulbPower": 59.99
+
+},{
+	"bulbPower": 60
+
+},{
+	"bulbPower": 60.0
+
+},{
+	"bulbPower": "+60.0"
+
+}
+
+]

@@ -1,0 +1,36 @@
+[38;5;33m[4m
+Iteration 1 of 1
+[24m[39m[32m200[39m[36m 1144ms[39m[37m allmethods [39m[36m[GET] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods
+[24m[39m[32m    ✔ TC1: expected status = 200
+[39m[32m    ✔ TC2: expected in response = '/api/allmethods - displays this list'
+[39m[32m    ✔ TC3: expected in response = '/api/allmethods/off - switches off the power source'
+[39m[32m    ✔ TC4a: expected in response = '/api/allmethods/on - switches on the power source'
+[39m[32m    ✔ TC4b: expected in response = 'Valid values 1-60'
+[39m[32m    ✔ TC4c: expected in response = 'power defaults to 60'
+[39m[32m200[39m[36m 837ms[39m[37m power-off-200 [39m[36m[GET] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/off
+[24m[39m[32m    ✔ TC1: expected status = 200
+[39m[32m    ✔ TC2: Expected response 'Switch set successfully'
+[39m[32m200[39m[36m 843ms[39m[37m power-off-400-wrong-userid [39m[36m[GET] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/off
+[24m[39m[31m    ✗ TC1: expected status = 400
+[39m[31m    ✗ TC2: expected response = 'Required userId header not found'
+[39m[32m200[39m[36m 835ms[39m[37m power-on-400-default-wrong-userid [39m[36m[GET] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[31m    ✗ TC1: expected status = 400
+[39m[31m    ✗ TC2: expected response = 'Required userId header not found'
+[39m[31m400[39m[36m 829ms[39m[37m power-on-400-default-missing-userid [39m[36m[GET] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status = 400
+[39m[32m    ✔ TC2: expected response = 'Required userId header not found'
+[39m[32m200[39m[36m 832ms[39m[37m power-on-200-default [39m[36m[GET] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status = 200
+[39m[32m    ✔ TC2: Expected response 'Switch set successfully'
+[39m[31m400[39m[36m 831ms[39m[37m power-off-400-missing-userid [39m[36m[GET] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/off
+[24m[39m[32m    ✔ TC1: expected status = 400
+[39m[32m    ✔ TC2: expected response = 'Required userId header not found'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder get-ALL           	[39m[32m        14	[39m[31m         4
+[39m[37m
+[39m[37mTotal                    	[39m[32m        14	[39m[31m         4
+[39m

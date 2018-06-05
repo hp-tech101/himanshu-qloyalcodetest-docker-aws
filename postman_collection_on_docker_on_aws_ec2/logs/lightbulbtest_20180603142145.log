@@ -1,0 +1,40 @@
+[38;5;33m[4m
+Iteration 1 of 3
+[24m[39m[31m400[39m[36m 1494ms[39m[37m power-on-400-custom-invalid-header [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status = 400
+[39m[32m    ✔ TC2: expected response = 'Required userId header not found'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-400          	[39m[32m         2	[39m[31m         0
+[39m[37m
+[39m[37mTotal                    	[39m[32m         2	[39m[31m         0
+[39m[38;5;33m[4m
+Iteration 2 of 3
+[24m[39m[32m200[39m[36m 836ms[39m[37m power-on-400-custom-invalid-header [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[31m    ✗ TC1: expected status = 400
+[39m[31m    ✗ TC2: expected response = 'Required userId header not found'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-400          	[39m[32m         0	[39m[31m         2
+[39m[37m
+[39m[37mTotal                    	[39m[32m         0	[39m[31m         2
+[39m[38;5;33m[4m
+Iteration 3 of 3
+[24m[39m[31m400[39m[36m 837ms[39m[37m power-on-400-custom-invalid-header [39m[36m[POST] [39m[38;5;245m[4mhttps://qa-challenges-lightbulb.atlassian.io/api/allmethods/on
+[24m[39m[32m    ✔ TC1: expected status = 400
+[39m[32m    ✔ TC2: expected response = 'Required userId header not found'
+[39m[37m
+Summary:
+
+[39m[37mParent                   	Pass Count	 FailCount
+[39m[37m-------------------------------------------------------------
+[39m[37mFolder post-400          	[39m[32m         2	[39m[31m         0
+[39m[37m
+[39m[37mTotal                    	[39m[32m         2	[39m[31m         0
+[39m
